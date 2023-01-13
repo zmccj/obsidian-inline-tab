@@ -17,6 +17,6 @@ Orange......Orange
 My face.....Gray
 
 ```
-We need this basic inline format in our daily work. It's a simple job in vscode by hitting Tab key. But it's impossible to getting tab key back to us in Obsidian. So I made this plugin to use another hotkey to insert inline tabs. 
+We need this basic inline format in our daily work. It's a simple job in vscode by hitting Tab key. But it's impossible in Obsidian today. So I made this plugin to use another hotkey to insert inline tabs. 
 
 To be continued...
