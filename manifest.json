@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-inline-tab",
+	"name": "Inline Tab Plugin",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"minAppVersion": "1.0.0",
+	"description": "This is a plugin for Obsidian. This plugin let user insert plain tab inline without affecting paragraph indent.",
+	"author": "Zmccj",
+	"authorUrl": "https://github.com/zmccj/obsidian-inline-tab",
+	"fundingUrl": "https://github.com/zmccj/obsidian-inline-tab",
 	"isDesktopOnly": false
 }

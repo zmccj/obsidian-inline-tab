@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-inline-tab-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is a plugin for Obsidian. This plugin let user insert plain tab inline without affecting paragraph indent.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
